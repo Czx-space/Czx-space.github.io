@@ -54,7 +54,7 @@ My research interests include computer vision, multimodal learning, and 3D visio
   <img src="images/basketball.png" alt="basketball"
        style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
 
-  <img src="images/chengq.png" alt="motobike"
+  <img src="images/chengq1.png" alt="motobike"
        style="flex: 1; width: 0; border-radius: 12px; object-fit: cover; aspect-ratio: 4 / 3;">
 
 
