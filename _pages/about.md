@@ -67,7 +67,11 @@ My research interests include computer vision, multimodal learning, and 3D visio
 
 
 <div style="font-size: 18px; line-height: 1.7;">
-  <p><strong>2026.05:</strong> 🎉🎉 “Mask 2D-3D: Adaptive Dual-Masked Autoencoder Network for Image-to-Point Cloud Registration” was accepted by IEEE Transactions on Multimedia.</p>
+  <p><strong>2026.10:</strong> 🎉🎉 “Mask 2D-3D: Adaptive Dual-Masked Autoencoder Network for Image-to-Point Cloud Registration” was accepted by IEEE Transactions on Multimedia.</p>
+
+  <p><strong>2026.08:</strong> 🎉🎉 “BlurSplat: Feed-Forward 3D Reconstruction from Blurry Images via Cross-View Appearance Aggregation” was accepted by ACM MM 2026.</p>
+
+  <p><strong>2026.07:</strong> 🎉🎉 “PGCR: Pose-Geometry Coupled Reasoning for Image-to-Point Cloud Registration” was accepted by ECCV 2026.</p>
   
   <p><strong>2026.05:</strong> 🎉🎉 “FS-I2P: A Hierarchical Focus–Sweep Registration Network with Dynamically Allocated Depth” was accepted by ICML 2026, and I attend the conference in Korea🍲.</p>
   
@@ -313,6 +317,20 @@ By combining local geometric enhancement with structural consistency, GLASS redu
 </table>
 
 ---
+<h3>
+  <a href="" target="_blank" style="text-decoration: none; color: inherit;">
+    BlurSplat: Feed-Forward 3D Reconstruction from Blurry Images via Cross-View Appearance Aggregation
+  </a>
+</h3>
+<p>Bohao Liao, <span style="color:#00B0F0;">Zhixin Cheng</span>, Weinan He, Wangkai Li, Tianle Ding, Wenjie Chang, Wenfei Yang, Tianzhu Zhang </p>
+
+<h3>
+  <a href="https://eccv.ecva.net/virtual/2026/poster/3995" target="_blank" style="text-decoration: none; color: inherit;">
+    PGCR: Pose-Geometry Coupled Reasoning for Image-to-Point Cloud Registration
+  </a>
+</h3>
+<p>Xinjun Li, Wenfei Yang, Yihan Chen, <span style="color:#00B0F0;">Zhixin Cheng</span>, Shifeng Zhang, Xu Zhou, Tianzhu Zhang </p>
+
 <h3>
   <a href="https://arxiv.org/pdf/2603.26260" target="_blank" style="text-decoration: none; color: inherit;">
     GeoGuide: Hierarchical Geometric Guidance for Open-Vocabulary 3D Semantic Segmentation
