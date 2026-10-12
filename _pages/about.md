@@ -102,6 +102,31 @@ My research interests include computer vision, multimodal learning, and 3D visio
 
 <h2 id="publications" style="font-size: 32px;">📝 Publications</h2>
 
+<table>
+<tr>
+<td width="35%">
+<img src="/images/poster-M23D.png" width="100%">
+</td>
+<td width="65%">
+
+<h3>
+  <a href="https://ieeexplore.ieee.org/document/11731525" target="_blank" style="text-decoration: none; color: #1a73e8; font-size: 28px; font-weight: 600;">
+    Mask 2D-3D: Adaptive Dual-Masked Autoencoder Network for Image-to-Point Cloud Registration
+  </a>
+</h3>
+<p><span style="color:#00B0F0;">Zhixin Cheng</span>, Jiacheng Deng, Xiaotian Yin, Baoqun Yin, Richang Hong*, Tianzhu Zhang*</p>
+<p>
+  This paper revisits image-to-point cloud registration by addressing two key challenges: the modality gap between dense 2D images and sparse 3D point clouds, and the limited effectiveness of random masking, which may overlook informative overlapping regions. To tackle these, M23D introduces an Intermodal Dual-MAE framework, where cross-modal attention and bidirectional feature reconstruction promote consistent image and point-cloud representations. It further applies a Similarity-based Reinforcement Learning Masking Strategy, using similarity-aware initialization and RL-driven refinement to select more informative masked regions during training. By combining dual-modal reconstruction with adaptive masking, M23D reduces cross-modal discrepancies, improves correspondence estimation, and achieves state-of-the-art registration performance.
+</p>
+
+<h3>
+  <span style="font-size: 16px; color: #FFA3B0;">Presented at IEEE Transactions on Multimedia🌸</span>
+</h3>
+
+</td>
+</tr>
+</table>
+
 
 <table>
 <tr>
